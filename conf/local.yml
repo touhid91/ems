@@ -1,0 +1,4 @@
+ports:
+  app: 8080
+  mongo: 32771
+  redis: 32772
